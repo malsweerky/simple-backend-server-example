@@ -7,8 +7,8 @@ Live link hosted by Heroku can be found below: https://fast-wildwood-98683.herok
 
 Try typing after the backslash:
 
-index.html
-about.html
-Any other word you can think of!
+1) index.html
+2) about.html
+3) Any other word you can think of!
 
 simple-backend-server-example
