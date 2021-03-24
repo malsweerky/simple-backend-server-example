@@ -1,5 +1,5 @@
 # simple-backend-server-example
-I created A simple backend server created using Node.js
+A simple backend server created using Node.js
 
 I created a backend server using Node.js that gives an Error 404 page for pages not on the server entered by the user.
 
