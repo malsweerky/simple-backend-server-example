@@ -3,7 +3,7 @@ I created A simple backend server created using Node.js
 
 I created a backend server using Node.js that gives an Error 404 page for pages not on the server entered by the user.
 
-Live link hosted by Heroku can be found below: https://fast-wildwood-98683.herokuapp.com/
+Live link hosted by Heroku can be found below: https://simple-server-demo.herokuapp.com/
 
 Try typing after the backslash:
 
